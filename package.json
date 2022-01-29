@@ -1,0 +1,22 @@
+{
+  "name": "mahasiswa-api",
+  "version": "1.0.0",
+  "description": "REST API sederhana menggunakan Expres js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "RESTFULL",
+    "API"
+  ],
+  "author": "Oka R. Abdillah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
